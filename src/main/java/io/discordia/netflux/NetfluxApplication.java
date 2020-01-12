@@ -10,4 +10,5 @@ public class NetfluxApplication {
 		SpringApplication.run(NetfluxApplication.class, args);
 	}
 
+
 }
